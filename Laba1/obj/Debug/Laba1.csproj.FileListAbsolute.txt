@@ -1,0 +1,7 @@
+D:\Projects Visual Studio\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Projects Visual Studio\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Projects Visual Studio\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Projects Visual Studio\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Projects Visual Studio\Laba1\Laba1\obj\Debug\Laba1.pdb
